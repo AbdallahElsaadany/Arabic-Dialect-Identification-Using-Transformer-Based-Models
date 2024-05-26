@@ -3,7 +3,7 @@
 The identification of Arabic dialects using deep learning models is a rapidly evolving field in computational linguistics, driven by the increasing digital communication in the Arab world. Arabic dialect identification is crucial due to the significant linguistic variations between dialects and Modern Standard Arabic (MSA). MSA, the formal language of media and education across the Arab world, differs considerably from colloquial dialects in terms of syntax, vocabulary, and pronunciation. These dialects, which are often region-specific, are prevalent in everyday communication and social media, presenting a unique challenge for natural language processing systems. In this paper, we compare 5 different transformer-based models on a specific Arabic dialect corpus and analyze the results of each of them.
 
 ### 1-Data Pre-Processing and Analysis
-We selected the https://huggingface.co/datasets/Abdelrahman-Rezk/Arabic_Dialect_Identification dataset, which comprises texts and their
+We used the https://huggingface.co/datasets/Abdelrahman-Rezk/Arabic_Dialect_Identification dataset, which comprises texts and their
 corresponding dialects, specifically 18 different country-level dialects as shown in the figure below.
 
 ![diall](https://github.com/y0usefadel/Arabic-Dialect-Identification-Using-Transformer-Based-Models/assets/67977986/40578a40-f08b-464e-9535-7e7c8d808de2)
